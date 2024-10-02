@@ -84,15 +84,8 @@ Ready for production
 
 
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.nativeunion.com/).
-- Many thanks to...
 
 
-## Contact
-Created by [@RavshanFayziyev](https://ravshanfayziyev.netlify.app/) - feel free to contact me!
 
 
 <!-- Optional -->
