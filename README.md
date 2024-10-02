@@ -1,6 +1,6 @@
 # Native union
 > Outline a brief description of your project.
-> Live demo [_here_]((https://nativeunion.netlify.app/)). 
+> Live demo [[_here_]((https://nativeunion.netlify.app/)).](https://nativeunion.netlify.app/) 
 
 ## Table of Contents
 * [General Info](#general-information)
